@@ -16,5 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         val tv: TextView = findViewById(R.id.text_view)
         tv.text = greet()
+
+        val gus: TextView = findViewById(R.id.text_view2)
+        gus.text = "pipka" + greet()
     }
 }

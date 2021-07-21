@@ -10,33 +10,316 @@
 9        android:targetSdkVersion="29" />
 9-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
 10
-11    <application
-11-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:3:5-13:19
-12        android:allowBackup="false"
-12-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:4:13-40
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:extractNativeLibs="false"
-16        android:supportsRtl="true"
-16-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:5:13-39
-17        android:testOnly="true"
-18        android:theme="@style/AppTheme" >
-18-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:6:13-44
-19        <activity android:name="com.example.kmmapplication.androidApp.MainActivity" >
-19-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:7:9-12:20
-19-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:7:19-47
-20            <intent-filter>
-20-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:8:13-11:29
-21                <action android:name="android.intent.action.MAIN" />
-21-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:9:17-68
-21-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:9:25-66
-22
-23                <category android:name="android.intent.category.LAUNCHER" />
-23-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:10:17-76
-23-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:10:27-74
-24            </intent-filter>
-25        </activity>
-26    </application>
-27
-28</manifest>
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->[com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:26:5-66
+11-->[com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:26:22-63
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:13:5-79
+12-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:13:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:14:5-67
+13-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:14:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:15:5-81
+14-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:15:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:16:5-76
+15-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:16:22-73
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+16-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:17:5-76
+16-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:17:22-73
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:18:5-79
+17-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:18:22-76
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:19:5-68
+18-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:19:22-65
+19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+19-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:20:5-81
+19-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:20:22-78
+20    <uses-permission android:name="android.permission.BLUETOOTH" />
+20-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:21:5-68
+20-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:21:22-65
+21    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+21-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:22:5-74
+21-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:22:22-71
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+23-->[me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:11:5-74
+23-->[me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:11:22-71
+24    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+24-->[com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+24-->[com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+25
+26    <application
+26-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:3:5-13:19
+27        android:allowBackup="false"
+27-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:4:13-40
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:supportsRtl="true"
+31-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:5:13-39
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:6:13-44
+34        <activity android:name="com.example.kmmapplication.androidApp.MainActivity" >
+34-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:7:9-12:20
+34-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:7:19-47
+35            <intent-filter>
+35-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:8:13-11:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:9:17-68
+36-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:9:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:10:17-76
+38-->/Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:10:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <meta-data
+42-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:25:9-27:38
+43            android:name="yandex.maps.runtime.stl.linkage"
+43-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:26:13-59
+44            android:value="static" />
+44-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:27:13-35
+45
+46        <service
+46-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:29:9-32:72
+47            android:name="com.evernote.android.job.patched.internal.v21.PlatformJobService"
+47-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:30:13-92
+48            android:exported="false"
+48-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:31:13-37
+49            android:permission="android.permission.BIND_JOB_SERVICE" />
+49-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:32:13-69
+50        <service
+50-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:33:9-36:72
+51            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmService"
+51-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:34:13-94
+52            android:exported="false"
+52-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:35:13-37
+53            android:permission="android.permission.BIND_JOB_SERVICE" />
+53-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:36:13-69
+54        <service
+54-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:37:9-39:40
+55            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmServiceExact"
+55-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:38:13-99
+56            android:exported="false" />
+56-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:39:13-37
+57
+58        <receiver
+58-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:41:9-50:20
+59            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmReceiver"
+59-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:42:13-95
+60            android:exported="false" >
+60-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:43:13-37
+61            <intent-filter>
+61-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:44:13-49:29
+62
+63                <!-- Keep the filter for legacy intents -->
+64                <action android:name="com.evernote.android.job.patched.internal.v14.RUN_JOB" />
+64-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:47:17-96
+64-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:47:25-93
+65                <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+65-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:48:17-78
+65-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:48:25-75
+66            </intent-filter>
+67        </receiver>
+68        <receiver
+68-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:51:9-60:20
+69            android:name="com.evernote.android.job.patched.internal.JobBootReceiver"
+69-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:52:13-85
+70            android:exported="false" >
+70-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:53:13-37
+71            <intent-filter>
+71-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:54:13-59:29
+72                <action android:name="android.intent.action.BOOT_COMPLETED" />
+72-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:55:17-79
+72-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:55:25-76
+73                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+73-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:56:17-82
+73-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:56:25-79
+74                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+74-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:57:17-82
+74-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:57:25-79
+75                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+75-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:58:17-84
+75-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:58:25-81
+76            </intent-filter>
+77        </receiver>
+78
+79        <service
+79-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:62:9-65:72
+80            android:name="com.evernote.android.job.patched.internal.JobRescheduleService"
+80-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:63:13-90
+81            android:exported="false"
+81-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:64:13-37
+82            android:permission="android.permission.BIND_JOB_SERVICE" />
+82-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:65:13-69
+83        <service
+83-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:66:9-69:72
+84            android:name="com.yandex.runtime.connectivity.internal.ConnectivityService"
+84-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:67:13-88
+85            android:exported="true"
+85-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:68:13-36
+86            android:permission="android.permission.BIND_JOB_SERVICE" />
+86-->[com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:69:13-69
+87
+88        <provider
+88-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+89            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+90            android:authorities="com.example.kmmapplication.androidApp.lifecycle-process"
+90-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+91            android:exported="false"
+91-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+92            android:multiprocess="true" />
+92-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+93
+94        <service
+94-->[androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+95            android:name="androidx.room.MultiInstanceInvalidationService"
+95-->[androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+96            android:directBootAware="true"
+96-->[androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+97            android:exported="false" /> <!-- Yandex Mobile Metrica Analytics: common service -->
+97-->[androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+98        <service
+98-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:26:9-43:19
+99            android:name="com.yandex.metrica.MetricaService"
+99-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:27:13-61
+100            android:enabled="true"
+100-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:28:13-35
+101            android:exported="true"
+101-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:29:13-36
+102            android:process=":Metrica" >
+102-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:30:13-39
+103            <intent-filter>
+103-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:32:13-38:29
+104                <category android:name="android.intent.category.DEFAULT" />
+104-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:33:17-76
+104-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:33:27-73
+105
+106                <action android:name="com.yandex.metrica.IMetricaService" />
+106-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:35:17-77
+106-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:35:25-74
+107
+108                <data android:scheme="metrica" />
+108-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:37:17-50
+108-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:37:23-47
+109            </intent-filter>
+110
+111            <meta-data
+111-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:40:13-42:38
+112                android:name="metrica:api:level"
+112-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:41:17-49
+113                android:value="94" />
+113-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:42:17-35
+114        </service>
+115        <service
+115-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:44:9-60:19
+116            android:name="com.yandex.metrica.ConfigurationService"
+116-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:45:13-67
+117            android:enabled="true"
+117-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:46:13-35
+118            android:exported="false"
+118-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:47:13-37
+119            android:process=":Metrica" >
+119-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:48:13-39
+120            <meta-data
+120-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:50:13-52:37
+121                android:name="metrica:configuration:api:level"
+121-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:51:17-63
+122                android:value="3" />
+122-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:52:17-34
+123
+124            <intent-filter>
+124-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:54:13-59:29
+125
+126                <!-- This action was used by old background location collecting and should not be used again -->
+127                <!-- <action android:name="com.yandex.metrica.configuration.ACTION_START"/> -->
+128                <action android:name="com.yandex.metrica.configuration.ACTION_INIT" />
+128-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:58:17-87
+128-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:58:25-84
+129            </intent-filter>
+130        </service>
+131        <service
+131-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:61:9-67:19
+132            android:name="com.yandex.metrica.ConfigurationJobService"
+132-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:62:13-70
+133            android:enabled="true"
+133-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:63:13-35
+134            android:exported="false"
+134-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:64:13-37
+135            android:permission="android.permission.BIND_JOB_SERVICE"
+135-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:65:13-69
+136            android:process=":Metrica" >
+136-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:66:13-39
+137        </service> <!-- Yandex Mobile Metrica Analytics: main receiver -->
+138        <receiver
+138-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:70:9-78:20
+139            android:name="com.yandex.metrica.MetricaEventHandler"
+139-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:71:13-66
+140            android:enabled="true"
+140-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:72:13-35
+141            android:exported="true" >
+141-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:73:13-36
+142            <intent-filter>
+142-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:75:13-77:29
+143                <action android:name="com.android.vending.INSTALL_REFERRER" />
+143-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:76:17-79
+143-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:76:25-76
+144            </intent-filter>
+145        </receiver>
+146        <receiver
+146-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:79:9-88:20
+147            android:name="com.yandex.metrica.ConfigurationServiceReceiver"
+147-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:80:13-75
+148            android:enabled="true"
+148-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:81:13-35
+149            android:exported="true"
+149-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:82:13-36
+150            android:process=":Metrica" >
+150-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:83:13-39
+151            <intent-filter>
+151-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:85:13-87:29
+152                <action android:name="com.yandex.metrica.configuration.service.PLC" />
+152-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:86:17-87
+152-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:86:25-84
+153            </intent-filter>
+154        </receiver>
+155
+156        <provider
+156-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:90:9-97:20
+157            android:name="com.yandex.metrica.PreloadInfoContentProvider"
+157-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:91:13-73
+158            android:authorities="com.example.kmmapplication.androidApp.appmetrica.preloadinfo.retail"
+158-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:92:13-81
+159            android:enabled="true"
+159-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:93:13-35
+160            android:exported="true"
+160-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:94:13-36
+161            android:process=":Metrica" >
+161-->[com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:95:13-39
+162        </provider>
+163
+164        <activity
+164-->[com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+165            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+165-->[com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+166            android:exported="false"
+166-->[com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+167            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+167-->[com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+168
+169        <meta-data
+169-->[com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+170            android:name="com.google.android.gms.version"
+170-->[com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+171            android:value="@integer/google_play_services_version" />
+171-->[com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+172    </application>
+173
+174</manifest>

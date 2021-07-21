@@ -8,6 +8,21 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="29" />
 
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+
     <application
         android:allowBackup="false"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -23,6 +38,137 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data
+            android:name="yandex.maps.runtime.stl.linkage"
+            android:value="static" />
+
+        <service
+            android:name="com.evernote.android.job.patched.internal.v21.PlatformJobService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmServiceExact"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.evernote.android.job.patched.internal.v14.PlatformAlarmReceiver"
+            android:exported="false" >
+            <intent-filter>
+
+                <!-- Keep the filter for legacy intents -->
+                <action android:name="com.evernote.android.job.patched.internal.v14.RUN_JOB" />
+                <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.evernote.android.job.patched.internal.JobBootReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.evernote.android.job.patched.internal.JobRescheduleService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+        <service
+            android:name="com.yandex.runtime.connectivity.internal.ConnectivityService"
+            android:exported="true"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.kmmapplication.androidApp.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+
+        <service
+            android:name="androidx.room.MultiInstanceInvalidationService"
+            android:directBootAware="true"
+            android:exported="false" /> <!-- Yandex Mobile Metrica Analytics: common service -->
+        <service
+            android:name="com.yandex.metrica.MetricaService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":Metrica" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="com.yandex.metrica.IMetricaService" />
+
+                <data android:scheme="metrica" />
+            </intent-filter>
+
+            <meta-data
+                android:name="metrica:api:level"
+                android:value="94" />
+        </service>
+        <service
+            android:name="com.yandex.metrica.ConfigurationService"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":Metrica" >
+            <meta-data
+                android:name="metrica:configuration:api:level"
+                android:value="3" />
+
+            <intent-filter>
+
+                <!-- This action was used by old background location collecting and should not be used again -->
+                <!-- <action android:name="com.yandex.metrica.configuration.ACTION_START"/> -->
+                <action android:name="com.yandex.metrica.configuration.ACTION_INIT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.yandex.metrica.ConfigurationJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:process=":Metrica" >
+        </service> <!-- Yandex Mobile Metrica Analytics: main receiver -->
+        <receiver
+            android:name="com.yandex.metrica.MetricaEventHandler"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.yandex.metrica.ConfigurationServiceReceiver"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":Metrica" >
+            <intent-filter>
+                <action android:name="com.yandex.metrica.configuration.service.PLC" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.yandex.metrica.PreloadInfoContentProvider"
+            android:authorities="com.example.kmmapplication.androidApp.appmetrica.preloadinfo.retail"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":Metrica" >
+        </provider>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
     </application>
 
 </manifest>

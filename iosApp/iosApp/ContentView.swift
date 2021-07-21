@@ -7,6 +7,10 @@ func greet() -> String {
 
 struct ContentView: View {
     var body: some View {
+        VStack {
+            Text(greet())
+            Text(/*@START_MENU_TOKEN@*/"Placeholder"/*@END_MENU_TOKEN@*/ + greet())
+        }
         Text(greet())
     }
 }

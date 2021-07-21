@@ -5,34 +5,90 @@ INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 MERGED from [:shared] /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.material:material:1.2.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/906adbb6e2614917fb2f7ff7170e28c6/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/71ef5c8ea6608002fa419b472cc87157/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/70484ec803f0f5e675e70612ffe4f18a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3903553455cff35134b22f13cb243bd2/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bd16c045336c5367ddda8fd8409a97fe/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cded931cd02d531b30ef2c1670665cf8/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/727a51d28615e1edf6e814e18dae5988/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5e305fef39965623e46e369202c7767b/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/72cd0940189bf1d8834d89be2ad40b24/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/266d9c9e0e437a328b4d34fee7c7e847/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/992a26b88d8a06c20b5b8146f9053bed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e33b88c1d26ef622d2075106c1924b70/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cc52f9425aad09ad2abe747c13b72de5/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a988a8256090ea38d1dfddc9f98f8904/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/37e7130cb1b6bb7b2c9167c979499f26/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/47b488280b5d1103609fe86926e168fa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f5093680a0b897367621d7dccea16d9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f0deee408f31d3031af418e3c9b1cc5/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8a343a4ac78fce72ef069356cc42f051/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/446c476a39f44c23dd7449ed6d055d54/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6352ebd714b98762935fcbf45d090c52/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/03dd1faddb65e711abc9b46a16b97673/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/330d278901ad931afc0b388b0d801c26/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9965dea653e97f75ada47a0f40a14b18/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e96eb7c403021b1b489b65efedc0dc75/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ad986d690e2b5c0ec4643a97c7504284/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/7b10f10ab7557ba591325b6c56aefb38/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha01] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/b0d38a908fc5bec1dd26462c0e96c405/fragment-ktx-1.4.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/89e60462ccb772f889d6baa81342d3df/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3fd1ddbc85547777fa17a9004568c23d/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/446b1c6554582125abc69620ac0599f6/activity-ktx-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f6e7a62cc395e9cfc4b2238ff265b05/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/918726c494f0499f1f029362424a1971/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a81c781165503dfd69d69e2a928cd47c/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/53614d2bfff14e5546083d20ad0cc8a6/room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition-ktx:1.4.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f72e9c9658b5ea6f4043d2993fc2969/transition-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6508d02a06aeb611f66ecd9ca97e542f/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/40501698256e220c8852e0b054c06122/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6511606f845ff10a63aafe739d4b3209/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9a43e9462d217e6d7df53946a5c4dea8/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.zawadz88.materialpopupmenu:material-popup-menu:4.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/af5fa58e5204a5606c0e820422ada06d/material-popup-menu-4.1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.redmadrobot:input-mask-android:6.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/0dcaa8cc92c816c713338fd66da65f20/input-mask-android-6.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d65a3260de76e96d2bc008f3c0578746/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c49909cb0d36a382bb12b51f4859e475/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2317bf48918ddd0ef6b4c70b1dbe35eb/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:3.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/68368d48905f0dd8b0ee551612d2e993/sectionedrecyclerviewadapter-3.2.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c848c8fd22ee6dbfc22942be73bdf1c3/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3a4f7f4ee12dd691a392b4fdf92d06bc/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9e7c7c33fd618f9b3b777c13e0a4bebe/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/58b2c95eea02e4152886759846af717e/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.vipulasri:timelineview:1.1.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ec32f545b01c61b3565b952894160e02/timelineview-1.1.5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:3:1-72:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d1a3ba5d1effe7b33d7d8eb7f6f3c94b/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6071fb7ffa14a9270d5f56372b8906e3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f3ecda7d326add8ac0717224c497a24e/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ec3f7f3d1bc602101a96c9d8464449ae/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/43a7fab262471cd8b84dbea02ffbc071/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/45da5213fd7707c718d9dd4464d9a187/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/94384fab4f708f0af1d93c8f6ac34c10/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cddfe8bac703742aea460c504bb0004d/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f95dac4e45ef00bf3e4acf63c43fd59/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.0-alpha01] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f0adf3872f367cac2fefa17e32a40c08/fragment-1.4.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bae93f9fa2d5e79a26130dc1833c1d9b/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d8b308515f2a67fe23af1a29c70c31a1/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10eac17cf6319840c6e1eaaea76e3c40/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5a073dd6420d6a7203421d42b54187d2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.4.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/81384602585c7285c658688a08c6bf30/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/682a000f6156c760f41095efd0fe8b97/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/16a729a0b2e1051c34fa4661cb567421/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/b4c1768355705f329b5481d3d35306f8/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/edaad21c665ecef7d645d4c8cc660ff6/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ff2426f90d967007030eefa8f2cfb24b/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/975c2220347f4b4e635cc778af3535d1/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/7b446ca12abe037555a7ad9e0f17f759/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a33e5edfae78f1733b18d91bed26aa66/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/690b0f0a76889319c2f3d67a32c57f7a/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/96613bf15c73133b896fc435cc008747/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bfc8f4fcb706a1d27373e06586f5de54/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e1cb8b4976fcb18187205be09f502b4e/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d8c0843107cfec009216f11c48639021/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4bfa4203a2b60acff84d885134913a70/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d56d52e9994b46a371df8dc7c7935b7/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5bcdadd4a3faa1f537daa9760bf52c5f/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/71e48394518bf4eea511244fa29f6b15/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/91f02bd7dd2020677781f199bd23dc94/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/17b00c03b39b757c250f81adb7af8502/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/55df0eb457ee2c9eef2afcfd025429f0/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/64864cb495826d8f8dab066b7b9c6f1b/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d3aded2b31bb5a0845b1dce97596dc14/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1edf1ff81c58a907257ec60cdd4df5b0/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ae13e977ed43bb86a9c178b2947874a6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f7e9d1b5e640977df5532607817c8c8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/349e77024b3fa9d814dcc4c6ef4402e8/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.alespero:expandable-cardview:0.8] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1944263666831baae340e9407667cbfd/expandable-cardview-0.8/AndroidManifest.xml:2:1-11:12
+MERGED from [me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2c45711658fee40ee5399f6f878f82c7/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e37adf956ee2d1339ea901dcd7e28b0e/fab-1.6.4/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.ganfra:material-spinner:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/daaad084495aa31093fa8834282ab86e/material-spinner-2.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:9:1-100:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5e77078d777975a7110ad81b3025e7e1/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ce1623190f60bf3837fcd7dba8c77d4d/play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1136bb90a2b93175752a4248029fbcc4/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d10e10e0931f3ed42614a976ba8b904/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:1-14:12
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:1-14:12
@@ -52,18 +108,52 @@ INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp
 		ADDED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:3:5-13:19
-MERGED from [com.google.android.material:material:1.2.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.2.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/906adbb6e2614917fb2f7ff7170e28c6/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/906adbb6e2614917fb2f7ff7170e28c6/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f0deee408f31d3031af418e3c9b1cc5/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f0deee408f31d3031af418e3c9b1cc5/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.zawadz88.materialpopupmenu:material-popup-menu:4.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/af5fa58e5204a5606c0e820422ada06d/material-popup-menu-4.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.zawadz88.materialpopupmenu:material-popup-menu:4.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/af5fa58e5204a5606c0e820422ada06d/material-popup-menu-4.1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c49909cb0d36a382bb12b51f4859e475/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c49909cb0d36a382bb12b51f4859e475/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2317bf48918ddd0ef6b4c70b1dbe35eb/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2317bf48918ddd0ef6b4c70b1dbe35eb/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:3.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/68368d48905f0dd8b0ee551612d2e993/sectionedrecyclerviewadapter-3.2.0/AndroidManifest.xml:11:5-12:19
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:3.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/68368d48905f0dd8b0ee551612d2e993/sectionedrecyclerviewadapter-3.2.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:28:5-20
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:28:5-20
+MERGED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:24:5-70:19
+MERGED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:24:5-70:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cddfe8bac703742aea460c504bb0004d/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cddfe8bac703742aea460c504bb0004d/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/55df0eb457ee2c9eef2afcfd025429f0/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/55df0eb457ee2c9eef2afcfd025429f0/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2c45711658fee40ee5399f6f878f82c7/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2c45711658fee40ee5399f6f878f82c7/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e37adf956ee2d1339ea901dcd7e28b0e/fab-1.6.4/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e37adf956ee2d1339ea901dcd7e28b0e/fab-1.6.4/AndroidManifest.xml:12:5-20
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:23:5-98:19
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:23:5-98:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ce1623190f60bf3837fcd7dba8c77d4d/play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ce1623190f60bf3837fcd7dba8c77d4d/play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1136bb90a2b93175752a4248029fbcc4/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1136bb90a2b93175752a4248029fbcc4/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d10e10e0931f3ed42614a976ba8b904/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d10e10e0931f3ed42614a976ba8b904/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:5:13-39
+	tools:ignore
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:24:18-44
 	android:allowBackup
 		ADDED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:4:13-40
 	android:theme
@@ -88,62 +178,174 @@ INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
 MERGED from [:shared] /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:shared] /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.material:material:1.2.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.2.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/906adbb6e2614917fb2f7ff7170e28c6/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/906adbb6e2614917fb2f7ff7170e28c6/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/71ef5c8ea6608002fa419b472cc87157/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/71ef5c8ea6608002fa419b472cc87157/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/70484ec803f0f5e675e70612ffe4f18a/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/70484ec803f0f5e675e70612ffe4f18a/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3903553455cff35134b22f13cb243bd2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3903553455cff35134b22f13cb243bd2/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bd16c045336c5367ddda8fd8409a97fe/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bd16c045336c5367ddda8fd8409a97fe/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cded931cd02d531b30ef2c1670665cf8/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cded931cd02d531b30ef2c1670665cf8/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/727a51d28615e1edf6e814e18dae5988/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/727a51d28615e1edf6e814e18dae5988/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5e305fef39965623e46e369202c7767b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5e305fef39965623e46e369202c7767b/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/72cd0940189bf1d8834d89be2ad40b24/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/72cd0940189bf1d8834d89be2ad40b24/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/266d9c9e0e437a328b4d34fee7c7e847/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/266d9c9e0e437a328b4d34fee7c7e847/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/992a26b88d8a06c20b5b8146f9053bed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/992a26b88d8a06c20b5b8146f9053bed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e33b88c1d26ef622d2075106c1924b70/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e33b88c1d26ef622d2075106c1924b70/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cc52f9425aad09ad2abe747c13b72de5/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cc52f9425aad09ad2abe747c13b72de5/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a988a8256090ea38d1dfddc9f98f8904/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a988a8256090ea38d1dfddc9f98f8904/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/37e7130cb1b6bb7b2c9167c979499f26/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/37e7130cb1b6bb7b2c9167c979499f26/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/47b488280b5d1103609fe86926e168fa/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/47b488280b5d1103609fe86926e168fa/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f5093680a0b897367621d7dccea16d9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f5093680a0b897367621d7dccea16d9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f9eff5350e586d6e0f969e28130f5ef9/core-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f0deee408f31d3031af418e3c9b1cc5/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f0deee408f31d3031af418e3c9b1cc5/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8a343a4ac78fce72ef069356cc42f051/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8a343a4ac78fce72ef069356cc42f051/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/446c476a39f44c23dd7449ed6d055d54/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/446c476a39f44c23dd7449ed6d055d54/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6352ebd714b98762935fcbf45d090c52/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6352ebd714b98762935fcbf45d090c52/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/03dd1faddb65e711abc9b46a16b97673/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/03dd1faddb65e711abc9b46a16b97673/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/330d278901ad931afc0b388b0d801c26/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/330d278901ad931afc0b388b0d801c26/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9965dea653e97f75ada47a0f40a14b18/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9965dea653e97f75ada47a0f40a14b18/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e96eb7c403021b1b489b65efedc0dc75/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e96eb7c403021b1b489b65efedc0dc75/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ad986d690e2b5c0ec4643a97c7504284/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ad986d690e2b5c0ec4643a97c7504284/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/7b10f10ab7557ba591325b6c56aefb38/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/7b10f10ab7557ba591325b6c56aefb38/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha01] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/b0d38a908fc5bec1dd26462c0e96c405/fragment-ktx-1.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.0-alpha01] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/b0d38a908fc5bec1dd26462c0e96c405/fragment-ktx-1.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/89e60462ccb772f889d6baa81342d3df/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/89e60462ccb772f889d6baa81342d3df/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3fd1ddbc85547777fa17a9004568c23d/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3fd1ddbc85547777fa17a9004568c23d/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/446b1c6554582125abc69620ac0599f6/activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/446b1c6554582125abc69620ac0599f6/activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f6e7a62cc395e9cfc4b2238ff265b05/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f6e7a62cc395e9cfc4b2238ff265b05/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/918726c494f0499f1f029362424a1971/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/918726c494f0499f1f029362424a1971/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a81c781165503dfd69d69e2a928cd47c/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a81c781165503dfd69d69e2a928cd47c/lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/53614d2bfff14e5546083d20ad0cc8a6/room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/53614d2bfff14e5546083d20ad0cc8a6/room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition-ktx:1.4.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f72e9c9658b5ea6f4043d2993fc2969/transition-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition-ktx:1.4.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f72e9c9658b5ea6f4043d2993fc2969/transition-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6508d02a06aeb611f66ecd9ca97e542f/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6508d02a06aeb611f66ecd9ca97e542f/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/40501698256e220c8852e0b054c06122/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/40501698256e220c8852e0b054c06122/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6511606f845ff10a63aafe739d4b3209/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6511606f845ff10a63aafe739d4b3209/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9a43e9462d217e6d7df53946a5c4dea8/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9a43e9462d217e6d7df53946a5c4dea8/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.zawadz88.materialpopupmenu:material-popup-menu:4.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/af5fa58e5204a5606c0e820422ada06d/material-popup-menu-4.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zawadz88.materialpopupmenu:material-popup-menu:4.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/af5fa58e5204a5606c0e820422ada06d/material-popup-menu-4.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.redmadrobot:input-mask-android:6.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/0dcaa8cc92c816c713338fd66da65f20/input-mask-android-6.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.redmadrobot:input-mask-android:6.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/0dcaa8cc92c816c713338fd66da65f20/input-mask-android-6.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d65a3260de76e96d2bc008f3c0578746/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d65a3260de76e96d2bc008f3c0578746/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c49909cb0d36a382bb12b51f4859e475/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c49909cb0d36a382bb12b51f4859e475/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2317bf48918ddd0ef6b4c70b1dbe35eb/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2317bf48918ddd0ef6b4c70b1dbe35eb/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:3.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/68368d48905f0dd8b0ee551612d2e993/sectionedrecyclerviewadapter-3.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.luizgrp.sectionedrecyclerviewadapter:sectionedrecyclerviewadapter:3.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/68368d48905f0dd8b0ee551612d2e993/sectionedrecyclerviewadapter-3.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:22:5-24:41
+MERGED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c848c8fd22ee6dbfc22942be73bdf1c3/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/c848c8fd22ee6dbfc22942be73bdf1c3/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3a4f7f4ee12dd691a392b4fdf92d06bc/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/3a4f7f4ee12dd691a392b4fdf92d06bc/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9e7c7c33fd618f9b3b777c13e0a4bebe/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/9e7c7c33fd618f9b3b777c13e0a4bebe/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/58b2c95eea02e4152886759846af717e/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/58b2c95eea02e4152886759846af717e/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.vipulasri:timelineview:1.1.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ec32f545b01c61b3565b952894160e02/timelineview-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vipulasri:timelineview:1.1.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ec32f545b01c61b3565b952894160e02/timelineview-1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:9:5-11:41
+MERGED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:9:5-11:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d1a3ba5d1effe7b33d7d8eb7f6f3c94b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d1a3ba5d1effe7b33d7d8eb7f6f3c94b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6071fb7ffa14a9270d5f56372b8906e3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6071fb7ffa14a9270d5f56372b8906e3/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f3ecda7d326add8ac0717224c497a24e/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f3ecda7d326add8ac0717224c497a24e/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ec3f7f3d1bc602101a96c9d8464449ae/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ec3f7f3d1bc602101a96c9d8464449ae/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/43a7fab262471cd8b84dbea02ffbc071/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/43a7fab262471cd8b84dbea02ffbc071/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/45da5213fd7707c718d9dd4464d9a187/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/45da5213fd7707c718d9dd4464d9a187/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/94384fab4f708f0af1d93c8f6ac34c10/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/94384fab4f708f0af1d93c8f6ac34c10/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cddfe8bac703742aea460c504bb0004d/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/cddfe8bac703742aea460c504bb0004d/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f95dac4e45ef00bf3e4acf63c43fd59/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f95dac4e45ef00bf3e4acf63c43fd59/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha01] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f0adf3872f367cac2fefa17e32a40c08/fragment-1.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.0-alpha01] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f0adf3872f367cac2fefa17e32a40c08/fragment-1.4.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bae93f9fa2d5e79a26130dc1833c1d9b/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bae93f9fa2d5e79a26130dc1833c1d9b/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d8b308515f2a67fe23af1a29c70c31a1/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d8b308515f2a67fe23af1a29c70c31a1/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10eac17cf6319840c6e1eaaea76e3c40/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10eac17cf6319840c6e1eaaea76e3c40/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5a073dd6420d6a7203421d42b54187d2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5a073dd6420d6a7203421d42b54187d2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.4.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/81384602585c7285c658688a08c6bf30/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/81384602585c7285c658688a08c6bf30/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/682a000f6156c760f41095efd0fe8b97/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/682a000f6156c760f41095efd0fe8b97/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/16a729a0b2e1051c34fa4661cb567421/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/16a729a0b2e1051c34fa4661cb567421/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/b4c1768355705f329b5481d3d35306f8/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/b4c1768355705f329b5481d3d35306f8/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/edaad21c665ecef7d645d4c8cc660ff6/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/edaad21c665ecef7d645d4c8cc660ff6/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ff2426f90d967007030eefa8f2cfb24b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ff2426f90d967007030eefa8f2cfb24b/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/975c2220347f4b4e635cc778af3535d1/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/975c2220347f4b4e635cc778af3535d1/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/7b446ca12abe037555a7ad9e0f17f759/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/7b446ca12abe037555a7ad9e0f17f759/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a33e5edfae78f1733b18d91bed26aa66/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a33e5edfae78f1733b18d91bed26aa66/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/6f2b8b6018e2ef3bd069e7ae2ba9f91f/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/690b0f0a76889319c2f3d67a32c57f7a/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/690b0f0a76889319c2f3d67a32c57f7a/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/96613bf15c73133b896fc435cc008747/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/96613bf15c73133b896fc435cc008747/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bfc8f4fcb706a1d27373e06586f5de54/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/bfc8f4fcb706a1d27373e06586f5de54/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e1cb8b4976fcb18187205be09f502b4e/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e1cb8b4976fcb18187205be09f502b4e/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d8c0843107cfec009216f11c48639021/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d8c0843107cfec009216f11c48639021/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4bfa4203a2b60acff84d885134913a70/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4bfa4203a2b60acff84d885134913a70/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d56d52e9994b46a371df8dc7c7935b7/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d56d52e9994b46a371df8dc7c7935b7/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5bcdadd4a3faa1f537daa9760bf52c5f/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5bcdadd4a3faa1f537daa9760bf52c5f/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/71e48394518bf4eea511244fa29f6b15/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/71e48394518bf4eea511244fa29f6b15/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/91f02bd7dd2020677781f199bd23dc94/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/91f02bd7dd2020677781f199bd23dc94/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/17b00c03b39b757c250f81adb7af8502/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/17b00c03b39b757c250f81adb7af8502/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/55df0eb457ee2c9eef2afcfd025429f0/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/55df0eb457ee2c9eef2afcfd025429f0/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/64864cb495826d8f8dab066b7b9c6f1b/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/64864cb495826d8f8dab066b7b9c6f1b/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d3aded2b31bb5a0845b1dce97596dc14/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/d3aded2b31bb5a0845b1dce97596dc14/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1edf1ff81c58a907257ec60cdd4df5b0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1edf1ff81c58a907257ec60cdd4df5b0/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ae13e977ed43bb86a9c178b2947874a6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ae13e977ed43bb86a9c178b2947874a6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f7e9d1b5e640977df5532607817c8c8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/8f7e9d1b5e640977df5532607817c8c8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/349e77024b3fa9d814dcc4c6ef4402e8/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/349e77024b3fa9d814dcc4c6ef4402e8/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.alespero:expandable-cardview:0.8] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1944263666831baae340e9407667cbfd/expandable-cardview-0.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.alespero:expandable-cardview:0.8] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1944263666831baae340e9407667cbfd/expandable-cardview-0.8/AndroidManifest.xml:7:5-9:41
+MERGED from [me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:7:5-9:41
+MERGED from [me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2c45711658fee40ee5399f6f878f82c7/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/2c45711658fee40ee5399f6f878f82c7/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e37adf956ee2d1339ea901dcd7e28b0e/fab-1.6.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e37adf956ee2d1339ea901dcd7e28b0e/fab-1.6.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.ganfra:material-spinner:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/daaad084495aa31093fa8834282ab86e/material-spinner-2.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ganfra:material-spinner:2.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/daaad084495aa31093fa8834282ab86e/material-spinner-2.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:15:5-17:41
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:15:5-17:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5e77078d777975a7110ad81b3025e7e1/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/5e77078d777975a7110ad81b3025e7e1/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ce1623190f60bf3837fcd7dba8c77d4d/play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/ce1623190f60bf3837fcd7dba8c77d4d/play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1136bb90a2b93175752a4248029fbcc4/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1136bb90a2b93175752a4248029fbcc4/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d10e10e0931f3ed42614a976ba8b904/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/1d10e10e0931f3ed42614a976ba8b904/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
 INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -154,3 +356,293 @@ INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp
 		INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
 		ADDED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
 		INJECTED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.wdullaer:materialdatetimepicker:4.2.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a79464ba474b5848f5be953bb98735a8/materialdatetimepicker-4.2.3/AndroidManifest.xml:26:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:13:5-79
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:21:5-79
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:14:5-67
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:20:5-67
+MERGED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:22:22-71
+meta-data#yandex.maps.runtime.stl.linkage
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:25:9-27:38
+	android:value
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:27:13-35
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:26:13-59
+service#com.evernote.android.job.patched.internal.v21.PlatformJobService
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:29:9-32:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:31:13-37
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:30:13-92
+service#com.evernote.android.job.patched.internal.v14.PlatformAlarmService
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:33:9-36:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:34:13-94
+service#com.evernote.android.job.patched.internal.v14.PlatformAlarmServiceExact
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:38:13-99
+receiver#com.evernote.android.job.patched.internal.v14.PlatformAlarmReceiver
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:42:13-95
+intent-filter#action:name:com.evernote.android.job.patched.internal.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:44:13-49:29
+action#com.evernote.android.job.patched.internal.v14.RUN_JOB
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:47:17-96
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:47:25-93
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:48:25-75
+receiver#com.evernote.android.job.patched.internal.JobBootReceiver
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:51:9-60:20
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:52:13-85
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:54:13-59:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:55:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:56:17-82
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:56:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:57:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:58:17-84
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:58:25-81
+service#com.evernote.android.job.patched.internal.JobRescheduleService
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:62:9-65:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:64:13-37
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:63:13-90
+service#com.yandex.runtime.connectivity.internal.ConnectivityService
+ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:66:9-69:72
+	android:exported
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:68:13-36
+	android:permission
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:69:13-69
+	android:name
+		ADDED from [com.yandex.android:maps.mobile:4.0.0-lite] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/f09988d1ba931815d49ce9fd79e449cb/maps.mobile-4.0.0-lite/AndroidManifest.xml:67:13-88
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/ivanovdenis/AndroidStudioProjects/KMMApplication/androidApp/src/main/AndroidManifest.xml:2:1-14:12 reason: com.yandex.maps.mobile requested WRITE_EXTERNAL_STORAGE
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/10e646a730d7c15720e7ffc8a7168a3a/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/e7272aecc0c358d3b152dfc89b1941d1/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [me.aflak.libraries:fingerprint:2.5.3] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/a0a7dab46c0fb3618f9e3fe06eac234b/fingerprint-2.5.3/AndroidManifest.xml:11:22-71
+service#com.yandex.metrica.MetricaService
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:26:9-43:19
+	android:process
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:30:13-39
+	android:enabled
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:28:13-35
+	android:exported
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:29:13-36
+	tools:ignore
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:31:13-43
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:27:13-61
+intent-filter#action:name:com.yandex.metrica.IMetricaService+category:name:android.intent.category.DEFAULT+data:scheme:metrica
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:32:13-38:29
+category#android.intent.category.DEFAULT
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:33:27-73
+action#com.yandex.metrica.IMetricaService
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:35:25-74
+data
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:37:17-50
+	android:scheme
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:37:23-47
+meta-data#metrica:api:level
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:40:13-42:38
+	android:value
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:42:17-35
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:41:17-49
+service#com.yandex.metrica.ConfigurationService
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:44:9-60:19
+	android:process
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:48:13-39
+	android:enabled
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:47:13-37
+	tools:ignore
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:45:13-67
+meta-data#metrica:configuration:api:level
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:50:13-52:37
+	android:value
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:52:17-34
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:51:17-63
+intent-filter#action:name:com.yandex.metrica.configuration.ACTION_INIT
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:54:13-59:29
+action#com.yandex.metrica.configuration.ACTION_INIT
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:58:17-87
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:58:25-84
+service#com.yandex.metrica.ConfigurationJobService
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:61:9-67:19
+	android:process
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:66:13-39
+	android:enabled
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:63:13-35
+	android:exported
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:64:13-37
+	android:permission
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:62:13-70
+receiver#com.yandex.metrica.MetricaEventHandler
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:70:9-78:20
+	android:enabled
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:72:13-35
+	android:exported
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:73:13-36
+	tools:ignore
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:74:13-44
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:71:13-66
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:75:13-77:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:76:17-79
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:76:25-76
+receiver#com.yandex.metrica.ConfigurationServiceReceiver
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:79:9-88:20
+	android:process
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:83:13-39
+	android:enabled
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:81:13-35
+	android:exported
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:82:13-36
+	tools:ignore
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:84:13-44
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:80:13-75
+intent-filter#action:name:com.yandex.metrica.configuration.service.PLC
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:85:13-87:29
+action#com.yandex.metrica.configuration.service.PLC
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:86:17-87
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:86:25-84
+provider#com.yandex.metrica.PreloadInfoContentProvider
+ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:90:9-97:20
+	android:process
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:95:13-39
+	android:enabled
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:93:13-35
+	android:authorities
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:92:13-81
+	android:exported
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:94:13-36
+	tools:ignore
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:96:13-51
+	android:name
+		ADDED from [com.yandex.android:mobmetricalib:3.18.0] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/49cf26b85024cfb2be2dfeed82c3f78f/mobmetricalib-3.18.0/AndroidManifest.xml:91:13-73
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/05089c037c2481889d047f2fd7397d16/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/85ccc76604361bb8e9bf62058f3bd524/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ivanovdenis/.gradle/caches/transforms-2/files-2.1/4520dc307392e7c6273a6418eae92666/play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
